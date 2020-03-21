@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "mens-tee",
+    "title": "Men's Tee",
+    "price": "$15",
+    "image": "./images/mens-tee.png"
+  },
+  {
+    "slug": "ladies-tee",
+    "title": "Ladies' Tee",
+    "price": "$12",
+    "image": "./images/ladies-tee.png"
+  }
+]

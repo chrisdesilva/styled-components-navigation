@@ -25,7 +25,7 @@ const MobileNavMenu = () => {
             <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/about">Projects</Link>
+            <Link to="/merch">Merch</Link>
           </li>
           <li>
             <Link to="/about">Contact</Link>
